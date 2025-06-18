@@ -1,0 +1,8 @@
+export { default as iconDHL } from './iconDHL.png'
+export { default as iconFEDEX } from './logoFedex.png'
+export { default as iconCOO } from './iconCoordinadora.png'
+export { default as fedexLogo } from './FEDEXLogo.svg'
+export { default as dhlLogo } from './DHLLogo.svg'
+export { default as coordinadoraLogo } from './COORDINADORALogo.svg'
+export { default as shopify } from './shopify-logo.svg'
+export { default as shipalLogo5 } from './logoShipalCurve.svg'

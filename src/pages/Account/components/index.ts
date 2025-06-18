@@ -1,0 +1,6 @@
+export { default as BusinessInfo } from './Bussines-info/Business-Info'
+export * from './Personal-info/Cell-phone'
+export * from './Personal-info/OTP-banner'
+export * from './Personal-info/OTP-modal'
+export { default as Password } from './Password'
+export { default as PersonalInfo } from './Personal-info/Personal-Info'

@@ -1,0 +1,6 @@
+export { default as CalculatorIcon } from './CalculatorIcon'
+export { default as DirectoryIcon } from './DirectoryIcon'
+export { default as ShipmentIcon } from './ShipmentIcon'
+export { default as UserIcon } from './UserIcon'
+export { default as ShopifyIcon } from './ShopifyIcon.svg'
+export { default as ShipalIcon } from './ShipalIcon.svg'

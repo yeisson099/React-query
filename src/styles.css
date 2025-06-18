@@ -1,0 +1,12 @@
+/* Oculta el control de incremento para todos los campos de entrada de tipo número */
+input[type=number] {
+    -moz-appearance: textfield;
+    /* Firefox */
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+    /* Elimina el margen predeterminado */
+}

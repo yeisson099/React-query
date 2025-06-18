@@ -1,0 +1,47 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# build
+.env
+.env*.local
+.npmrc
+
+# dependencies
+/node_modules
+yarn.lock
+
+# testing
+/coverage
+
+# production
+/build
+/dist
+
+# editor stuff
+/.vscode
+.idea/*
+
+/.eslintcache
+
+# misc
+.DS_Store
+.env.local
+.env.production.local
+*.orig
+.eslintcache
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+.scannerwork
+
+slnx.sqlite
+*.sublime-workspace
+
+# Personal Developer Notes Y'all Should Use (VS Notes Extension)
+.notes/
+
+*.log
+
+# vim
+*.swp
